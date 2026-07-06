@@ -154,24 +154,6 @@ Tools: SQL, Power BI, Power Query.</p>
 						</ul>
 					</article>
 
-					<article>
-						<header>
-							<h2><a href="#">OptiMind AI: AI-Powered Business Optimization Platform </a></h2>
-						</header>
-						<a href="#" class="image fit"><img src="" alt="images/wraehouse.png" /></a>
-						<div class="project-desc">
-							<p> OptiMind AI is an intelligent web application that helps businesses make optimal operational decisions without requiring knowledge of mathematical optimization or programming.
-
-Instead of manually creating linear programming models, users simply describe their business, products, resources, and objectives in plain language. The platform uses artificial intelligence to interpret the problem, identify the appropriate optimization model, formulate the mathematical equations, validate the model, solve it using a professional optimization engine, and present the results in an easy-to-understand format.
-
-The goal is to bridge the gap between advanced Operations Research techniques and everyday business decision-making.</p>
-							<button class="fade-read-more" onclick="toggleDesc(this)">read more...</button>
-						</div>
-						<ul class="actions special">
-							<li><a href="https://1drv.ms/x/c/d2904183762819ac/IQB90qLMyuZeTKIp0LUqXqNaASk8sSM-y0_GFubOySPoxfg?e=pscA0W" class="button">View Project</a></li>
-						</ul>
-					</article>
-
 				</section>
 
 			</div>
